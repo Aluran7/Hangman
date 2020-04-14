@@ -1,14 +1,4 @@
 # Hangman-Python
-A simple hangman game made with python and pygame. This was made as a beginner pygame project in grade 11 (2017).
+A hangman game made with python and pygame. The program pulls a random word from a file, the the game proceeds by its normal rules, guess the word/phrase within the allotted amount of guesses to win. Win or lose the program will ask the user if they would like to play again.
 
-# Requirements
-- Python 3.x
-- pygame
 
-# Run in GitPod
-
-You can also run Hnagman in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Hangman/blob/master/hangman.py)
