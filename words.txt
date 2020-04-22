@@ -1,12 +1,13 @@
 #these words will be changed most likely will be based on some type of theme
-the big bang
-the pillow feels soft
-odd one out
-press conference
-show me the money
-time to go home
-that was easy
-hangman is cool
-zoologist
-quadruplets
-the sky is blue
+#theme is NFL football words will comprise of players, teams, etc...
+patrick mahomes
+lamar jackson
+tom brady
+seattle seahawks
+atlanta falcons
+minnesota vikings
+los angeles rams
+troy aikman
+referee
+jersey
+helmet
