@@ -1,5 +1,3 @@
-#these words will be changed most likely will be based on some type of theme
-#theme is NFL football words will comprise of players, teams, etc...
 patrick mahomes
 lamar jackson
 tom brady
