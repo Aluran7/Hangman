@@ -4,8 +4,8 @@
 [x] tested and run the program
 [x] create projectroadmap
 [x] create a new word pool for updated game
-[] change interface of the pygame
+[x] change interface of the pygame(color)
 [] possible other updates?
 [attempted] test and fix after updates
-[attempted] finalize
+[x] finalize
 [x] submit
